@@ -1,0 +1,7 @@
+o ./data/cat.obj	10	1.8	0.4 0 -6.6	./data/cat_diff.tga
+o ./data/bird.obj	-58	0.1	-1.8 0 -0.2	./data/bodybird.jpg
+o ./data/gate.obj	0	0.12	0 0.2 1.6	./data/gate_diffuse.jpg
+o ./data/Giraffe.obj	176	0.4	-2 0 -2.8	./data/Giraffe_D.tga
+o ./data/Rabbit.obj	52	0.7	1.2 0 -2	./data/Rabbit_D.tga
+o ./data/The_Dog.obj	-32	0.9	2.8 0 -5.4	./data/Dog_Body_D.tga
+s ./data/Pac-Man.obj	180	0.005	-2 2 -2.8	./data/Tex_0113_0.png

@@ -1,0 +1,12 @@
+# Blender MTL File: 'cesped.blend'
+# Material Count: 1
+
+newmtl Material.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.011384 0.166332 0.009038
+Ks 0.134399 0.140132 0.010168
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2

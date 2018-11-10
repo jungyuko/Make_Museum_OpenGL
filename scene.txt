@@ -1,0 +1,11 @@
+#scene
+
+#  object_name	  	rotate	scale	translation	texture_file
+o  ./data/cat.obj	60.0	1.0	1.0 0.0 0.0	./data/cat_diff.tga
+o  ./data/bird.obj	0.0	0.2	-1.0 0.0 0.0	./data/bodybird.jpg
+o  ./data/gate.obj	0.0	0.02	0.0 0.2 3.0	./data/gate_diffuse.jpg
+o  ./data/Giraffe.obj	0.0	0.2	-1.0 0.0 -2.0	./data/Giraffe_D.tga
+o  ./data/Rabbit.obj    0.0     0.5     1.0 0.0 -2.0     ./data/Rabbit_D.tga
+o  ./data/The_Dog.obj	0.0	0.5	0.0 0.0 -2.0	./data/Dog_Body_D.tga
+
+s  ./data/Pac-Man.obj	180.0	0.005	0.0 0.0 0.0	./data/Tex_0113_0.png
